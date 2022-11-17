@@ -1,0 +1,31 @@
+.joke{
+    border: 2px solid #ff004f;
+    width: 60%;
+    color: #fff;
+    margin-top: 15%;
+    margin-left: 20%;
+  
+}
+
+
+button{
+    width: 20%;
+    font-size: 20px;
+    display: block;
+    width: fit-content;
+    border:  1px solid #ff004f;
+    padding: 14px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    background-color: #111827;
+    color: #fff;
+    transition: transform 0.7s;
+    cursor: pointer;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 35%;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
